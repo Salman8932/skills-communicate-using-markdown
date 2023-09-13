@@ -6,7 +6,10 @@
 Console.WriteLine("We Live, We Love, We Lie!");
 ```
 
-### Third
+### Goals
+- [ ] Learn Vim
+- [ ] Setting up LaTex with Vim
+- [ ] Improve Notemaking
 
 
 Added a markdown file hehe what is for idk
